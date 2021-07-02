@@ -50,7 +50,7 @@ class PessoalController extends Controller
 
     /**
      * Display the specified resource.
-     *
+     *git 
      * @param  \App\Models\Pessoal  $pessoal
      * @return \Illuminate\Http\Response
      */
